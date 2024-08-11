@@ -27,17 +27,17 @@
     - https://www.erdcloud.com/d/txbDM9s8ZxDMdf8q5
     
 - **응답 통일**
-    - https://github.com/qp-official-org/QP_BACKEND/pull/16
+    - [feat] 해시태그, 신고 기능에 대한 API 시그니처 작성 [https://github.com/qp-official-org/QP_BACKEND/pull/16]
     
 - **서비스 CRUD**
-    - https://github.com/qp-official-org/QP_BACKEND/pull/34
-    - https://github.com/qp-official-org/QP_BACKEND/pull/45
-    - https://github.com/qp-official-org/QP_BACKEND/pull/55
-    - https://github.com/qp-official-org/QP_BACKEND/pull/64
-    - https://github.com/qp-official-org/QP_BACKEND/pull/83
-    - https://github.com/qp-official-org/QP_BACKEND/pull/188
+    - [feat] 해시태그 관련 기능 구현 [https://github.com/qp-official-org/QP_BACKEND/pull/34]
+    - [feat] 이미지 업로드, 삭제 기능 구현 [https://github.com/qp-official-org/QP_BACKEND/pull/45]
+    - [feat] 답변 등록 및 조회 기능 구현 [https://github.com/qp-official-org/QP_BACKEND/pull/55]
+    - [feat] 답변 좋아요 기능 구현 [https://github.com/qp-official-org/QP_BACKEND/pull/64]
+    - [feat] OAuth 통한 회원 가입 및 로그인 구현 (카카오)[https://github.com/qp-official-org/QP_BACKEND/pull/83]
+    - [feat] 내가 한 질문 및 알림 설정한 질문 정보 조회 API 구현 [https://github.com/qp-official-org/QP_BACKEND/pull/188]
     
 - **단위 및 모듈 테스트**
-    - https://github.com/qp-official-org/QP_BACKEND/pull/128
-    - https://github.com/qp-official-org/QP_BACKEND/pull/142
-    - https://github.com/qp-official-org/QP_BACKEND/pull/144
+    - [feat] 이미지, 유저, 답변 좋아요 Repository 테스트 코드 작성 [https://github.com/qp-official-org/QP_BACKEND/pull/128]
+    - [feat] 답변 서비스 테스트 코드 작성 [https://github.com/qp-official-org/QP_BACKEND/pull/142]
+    - [test] ImageService 테스트 코드 작성 https://github.com/qp-official-org/QP_BACKEND/pull/144
