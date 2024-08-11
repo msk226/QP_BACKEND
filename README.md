@@ -1,10 +1,10 @@
-# [QP](https://github.com/qp-official-org/QP_BACKEND)
+# QP
 
 **살면서 가지게 되는 재밌는, 순수한 호기심에 대한 답변을 대학 교수를 통해 얻을 수 있는 웹/앱 플랫폼**
 
-![2023. 12 ~ 2024. 02 / Front 4명, Server 4명, Android 4명, Design 1명, 기획 1명](https://prod-files-secure.s3.us-west-2.amazonaws.com/7b947795-e6c2-4795-b85a-084a71cd8cda/f2ba8147-4726-403b-b17e-50f9f02b029e/321174280-69662879-3df7-4b61-b37a-16ea6a15f80a.png)
-
+![2023. 12 ~ 2024. 02 / Front 4명, Server 4명, Android 4명, Design 1명, 기획 1명](https://github.com/user-attachments/assets/b67e6e14-978c-4451-8de8-c77c924ac6f2)
 2023. 12 ~ 2024. 02 / Front 4명, Server 4명, Android 4명, Design 1명, 기획 1명
+
 
 ### 🛠️ Skills
 
